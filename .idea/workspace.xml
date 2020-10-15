@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb1796c0-4300-4660-ac31-75cd3472188a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../bank/dbank/ibank/libs/services/AccountCashService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bank/dbank/ibank/libs/services/CloudTradeService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codeception.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/dev/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/dev/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/prod/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/prod/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../controllers/SiteController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../requirements.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/_data/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/_output/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/_support/AcceptanceTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/_support/FunctionalTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/_support/UnitTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/acceptance.suite.yml.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/acceptance/AboutCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/acceptance/ContactCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/acceptance/HomeCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/acceptance/LoginCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/acceptance/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/bin/yii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/bin/yii.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/functional.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/functional/ContactFormCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/functional/LoginFormCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/functional/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/models/ContactFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/models/LoginFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/models/UserTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/assets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/index-dev.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/robots.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1inuGw75LkurUuJlullbgzZbWjq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/conf" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build picSearch" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="pics-stack" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="picSearch" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build picSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="280" width="405" height="262" key="EnvironmentVariablesDialog" timestamp="1602555617618">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="531" y="280" width="405" height="262" key="EnvironmentVariablesDialog/0.23.1280.777@0.23.1280.777" timestamp="1602555617618" />
+    <state width="1238" height="258" key="GridCell.Tab.0.bottom" timestamp="1602761940689">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="258" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1602761940689" />
+    <state width="1238" height="258" key="GridCell.Tab.0.center" timestamp="1602761940688">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="258" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1602761940688" />
+    <state width="1238" height="258" key="GridCell.Tab.0.left" timestamp="1602761940688">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="258" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1602761940688" />
+    <state width="1238" height="258" key="GridCell.Tab.0.right" timestamp="1602761940688">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="258" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1602761940688" />
+    <state x="79" y="50" width="1164" height="722" key="SettingsEditor" timestamp="1602556007140">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="79" y="50" width="1164" height="722" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1602556007140" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+Redis:
+  Addr: "127.0.0.1:6300"
+  Password: "qwe..123"
+
+Port: "8080"
+
+Website:
+  - "localhost:8080"
